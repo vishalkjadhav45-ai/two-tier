@@ -7,7 +7,7 @@ const PORT = 3000;
 
 // Route
 app.get('/', (req, res) => {
-  res.json({ message: "Hello world" });
+  res.json({ message: "“Deployed a 2-tier Docker app via Jenkins with isolated containers communicating.”" });
 });
 
 // Start server
